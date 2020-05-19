@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="hintName">Daniel Muhammad</string>
+    <string name="number">Mobile Number</string>
+    <string name="mobile">9876 5432</string>
+    <string name="groupSize">Group Size</string>
+    <string name="hintSize">3</string>
+    <string name="smoking">Smoking?</string>
+</resources>
